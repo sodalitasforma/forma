@@ -1,0 +1,22 @@
+{
+  "name": "forma",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A Catholic UI Kit and design system for shared digital form, beauty, and usability across Catholic digital projects.",
+  "license": "MIT",
+  "scripts": {
+    "dev": "pnpm --filter @forma/web dev",
+    "build": "pnpm --filter @forma/web build",
+    "lint": "pnpm --filter @forma/web lint",
+    "typecheck": "pnpm --filter @forma/web typecheck"
+  },
+  "keywords": [
+    "catholic",
+    "design-system",
+    "ui-kit",
+    "components",
+    "tokens",
+    "liturgical",
+    "open-source"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Forma",
+  "version": "0.0.1",
+  "description": "A Catholic UI Kit and design system for shared digital form, beauty, and usability.",
+  "status": "early-concept",
+  "categories": [
+    "primitives",
+    "tokens",
+    "liturgical",
+    "scripture",
+    "documents",
+    "parish",
+    "semantic-canon",
+    "ontokit"
+  ],
+  "components": [
+    {
+      "name": "Button",
+      "category": "primitives",
+      "status": "planned",
+      "description": "A foundational action component."
+    },
+    {
+      "name": "Card",
+      "category": "primitives",
+      "status": "planned",
+      "description": "A flexible content container."
+    },
+    {
+      "name": "Badge",
+      "category": "primitives",
+      "status": "planned",
+      "description": "A compact status, rank, or category label."
+    },
+    {
+      "name": "LiturgicalDayCard",
+      "category": "liturgical",
+      "status": "planned",
+      "description": "Displays the liturgical day, season, rank, color, and readings.",
+      "mapsTo": "Liturgical Calendar API"
+    },
+    {
+      "name": "MassScheduleBlock",
+      "category": "parish",
+      "status": "planned",
+      "description": "Displays Mass times with today, Sunday, weekday, language, exception, and last-updated states."
+    },
+    {
+      "name": "BiblePassageCard",
+      "category": "scripture",
+      "status": "planned",
+      "description": "Displays a Bible passage with citation, translation, and actions.",
+      "mapsTo": "Bible API"
+    },
+    {
+      "name": "ChurchDocumentHeader",
+      "category": "documents",
+      "status": "planned",
+      "description": "Displays title, issuing authority, document type, date, and citation metadata."
+    },
+    {
+      "name": "SourceCard",
+      "category": "semantic-canon",
+      "status": "planned",
+      "description": "Displays a Catholic source, authority level, relationships, and citations.",
+      "mapsTo": "Catholic Semantic Canon"
+    },
+    {
+      "name": "OntologyClassCard",
+      "category": "ontokit",
+      "status": "planned",
+      "description": "Displays an ontology class, namespace, properties, and review status.",
+      "mapsTo": "OntoKit"
+    }
+  ]
+}

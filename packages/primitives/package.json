@@ -1,0 +1,6 @@
+{
+  "name": "@forma/primitives",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Primitive UI components for Forma."
+}

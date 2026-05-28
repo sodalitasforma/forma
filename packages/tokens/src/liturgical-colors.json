@@ -1,0 +1,39 @@
+{
+  "liturgicalColors": [
+    {
+      "name": "White",
+      "token": "liturgical.white",
+      "use": "Easter, Christmas, feasts of Our Lord except Passion, Mary, angels, saints who were not martyrs."
+    },
+    {
+      "name": "Green",
+      "token": "liturgical.green",
+      "use": "Ordinary Time."
+    },
+    {
+      "name": "Violet",
+      "token": "liturgical.violet",
+      "use": "Advent, Lent, penance, and Masses for the dead where customary."
+    },
+    {
+      "name": "Red",
+      "token": "liturgical.red",
+      "use": "Passion, Pentecost, apostles, evangelists, and martyrs."
+    },
+    {
+      "name": "Rose",
+      "token": "liturgical.rose",
+      "use": "Gaudete Sunday and Laetare Sunday where used."
+    },
+    {
+      "name": "Black",
+      "token": "liturgical.black",
+      "use": "Masses for the dead where customary."
+    },
+    {
+      "name": "Gold",
+      "token": "liturgical.gold",
+      "use": "Solemn or festive use where permitted."
+    }
+  ]
+}

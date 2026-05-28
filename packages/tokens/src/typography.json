@@ -1,0 +1,22 @@
+{
+  "typography": {
+    "fontFamily": {
+      "display": "EB Garamond, Cormorant Garamond, Georgia, serif",
+      "document": "EB Garamond, Georgia, serif",
+      "interface": "Inter, Source Sans 3, system-ui, sans-serif",
+      "fallbackSerif": "Noto Serif, Georgia, serif",
+      "fallbackSans": "Noto Sans, system-ui, sans-serif"
+    },
+    "scale": {
+      "xs": "0.75rem",
+      "sm": "0.875rem",
+      "base": "1rem",
+      "lg": "1.125rem",
+      "xl": "1.25rem",
+      "2xl": "1.5rem",
+      "3xl": "1.875rem",
+      "4xl": "2.25rem",
+      "5xl": "3rem"
+    }
+  }
+}

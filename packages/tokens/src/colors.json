@@ -1,0 +1,25 @@
+{
+  "color": {
+    "forma": {
+      "ink": "#171512",
+      "ivory": "#F8F5EC",
+      "parchment": "#E8E1D0",
+      "linen": "#F3EFE4",
+      "card": "#FFFFFF",
+      "gold": "#A88D2B",
+      "goldMuted": "#C8B76B",
+      "goldDark": "#6F5C18",
+      "marianBlue": "#2F5D8C",
+      "borderHairline": "#D8D0BE"
+    },
+    "liturgical": {
+      "white": "#F7F3E8",
+      "green": "#2E6B45",
+      "violet": "#5B3A70",
+      "red": "#9F2D2D",
+      "rose": "#C97A8B",
+      "black": "#1F1B18",
+      "gold": "#A88D2B"
+    }
+  }
+}
