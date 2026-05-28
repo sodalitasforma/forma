@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "../../../../packages/tokens/src/css-vars.css";
 
 * {
   box-sizing: border-box;
@@ -11,6 +12,6 @@ body {
 }
 
 body {
-  background: white;
-  color: black;
+  background: var(--forma-color-surface-page);
+  color: var(--forma-color-text-primary);
 }

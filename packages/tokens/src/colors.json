@@ -1,25 +1,39 @@
 {
   "color": {
-    "forma": {
-      "ink": "#171512",
-      "ivory": "#F8F5EC",
-      "parchment": "#E8E1D0",
-      "linen": "#F3EFE4",
-      "card": "#FFFFFF",
-      "gold": "#A88D2B",
-      "goldMuted": "#C8B76B",
-      "goldDark": "#6F5C18",
-      "marianBlue": "#2F5D8C",
-      "borderHairline": "#D8D0BE"
+    "raw": {
+      "ink-950": "#171512",
+      "ink-800": "#3A342C",
+      "ink-600": "#5F574C",
+      "ivory-50": "#FAF8F1",
+      "ivory-100": "#F8F5EC",
+      "linen-100": "#F3EFE4",
+      "parchment-200": "#E8E1D0",
+      "gold-300": "#C8B76B",
+      "gold-600": "#A88D2B",
+      "gold-800": "#6F5C18",
+      "blue-700": "#2F5D8C",
+      "red-700": "#9F2D2D",
+      "green-700": "#2E6B45",
+      "violet-700": "#5B3A70",
+      "rose-500": "#C97A8B",
+      "white": "#FFFFFF",
+      "black": "#000000"
     },
-    "liturgical": {
-      "white": "#F7F3E8",
-      "green": "#2E6B45",
-      "violet": "#5B3A70",
-      "red": "#9F2D2D",
-      "rose": "#C97A8B",
-      "black": "#1F1B18",
-      "gold": "#A88D2B"
+    "semantic": {
+      "text-primary": "{color.raw.ink-950}",
+      "text-muted": "{color.raw.ink-600}",
+      "surface-page": "{color.raw.ivory-50}",
+      "surface-subtle": "{color.raw.linen-100}",
+      "surface-raised": "{color.raw.white}",
+      "surface-parchment": "{color.raw.parchment-200}",
+      "border-subtle": "rgba(23, 21, 18, 0.14)",
+      "border-strong": "rgba(23, 21, 18, 0.28)",
+      "accent-gold": "{color.raw.gold-600}",
+      "accent-gold-muted": "{color.raw.gold-300}",
+      "accent-gold-strong": "{color.raw.gold-800}",
+      "accent-blue": "{color.raw.blue-700}",
+      "danger": "{color.raw.red-700}",
+      "success": "{color.raw.green-700}"
     }
   }
 }
